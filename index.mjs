@@ -11,7 +11,7 @@ import {
   text,
   verdict,
   z,
-} from '@cairul/plugin-kit';
+} from '@cairul/pdk';
 
 export default function monday(options) {
   const api = connection(options, {
